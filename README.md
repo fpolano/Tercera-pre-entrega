@@ -11,9 +11,11 @@ Versión 0.1:
 - Tabla de maquinas en venta con formulario de carga
 - Tabla de repuestos en venta con formulario de carga
 
-Todas la base de datos es de acceso público para la carga de información
+Todas la base de datos es de acceso público para la carga de información.
+IMPORTANTE: No todas las clases poseen registros cargados pero se probaron los formularios de cada una. 
+El html del formulario de carga es único cambiandose el form que levanta.
 
-Mejoras deseadas:
+Mejoras deseadas pára proximas versiones:
 - Generar 2 niveles de acceso, uno público para mostrar el contenido de la base de datos y otro privado para el CRUD de la misma
 - Agregar a las tablas productos y repuestos un campo imagen que muestr el elementoi físico.
 - Agregar a la tabla manuales un campo archivo para almacenar los mismos y permitir su descarga.
